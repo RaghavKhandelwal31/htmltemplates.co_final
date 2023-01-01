@@ -327,8 +327,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #skills .skills-progress .skill-wrapper.progress-64 .progress .left-side {
-  -webkit-transform: rotate(230deg);
-          transform: rotate(230deg);
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
 }
 
 #skills .skills-progress .skill-wrapper.progress-75 .progress {
@@ -341,8 +341,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #skills .skills-progress .skill-wrapper.progress-75 .progress .left-side {
-  -webkit-transform: rotate(270deg);
-          transform: rotate(270deg);
+  -webkit-transform: rotate(216deg);
+          transform: rotate(216deg);
 }
 
 #skills .skills-progress .skill-wrapper.progress-46 .progress .right-side {
@@ -364,8 +364,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #skills .skills-progress .skill-wrapper.progress-85 .progress .left-side {
-  -webkit-transform: rotate(306deg);
-          transform: rotate(306deg);
+  -webkit-transform: rotate(252deg);
+          transform: rotate(252deg);
 }
 
 #experience {
